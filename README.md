@@ -1,16 +1,40 @@
-# zaag_recruitment_task
+##Favorite Items App
 
-A new Flutter project.
+This is a simple Flutter application that allows users to fetch a list of users from an API, search for users, and add/remove them from a favorites list using GetX state management.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#Features
 
-A few resources to get you started if this is your first Flutter project:
+- Fetch users from API
+- Search users by name
+- Add/remove users to/from favorites
+- State management using GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Technologies Used
+
+- Flutter (Dart)
+- GetX (State management & Navigation)
+- Dio (HTTP Requests)
+
+
+#Prerequisites
+ Make sure you have the following installed:
+
+- Flutter SDK (3.27.1)
+- Dart SDK (3.6.0)
+- Android Studio / VS Code (with Flutter plugin)
+
+
+#Clone the Repository
+
+- git clone https://github.com/anup-paul/zaag_task_1O1
+
+#Install Dependencies
+
+- flutter pub get
+
+#Install Dependencies
+
+-Flutter run
+
